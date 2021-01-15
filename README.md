@@ -5,7 +5,7 @@ Adds support for the media keys on your keyboard
 - :fast_forward:
 - :rewind:
 
-This repo contains a script, index.js, to manually click the previous track and next track buttons on LINE Msic's web page. Remember to press the "Play" button in the web UI before using any of the media keys. The script will automatically run when you open https://music.line.me.
+This repo contains a [script](https://github.com/johnedvard/Media-Buttons-LINE-Music/blob/master/index.js) to manually click the previous track and next track buttons on LINE Msic's web page. Remember to press the "Play" button in the web UI before using any of the media keys. The script will automatically run when you open https://music.line.me.
 
 # How to use
 
