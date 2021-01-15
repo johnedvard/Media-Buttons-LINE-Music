@@ -5,7 +5,7 @@ This is a script to manually click the previous track and next track buttons on 
 
 # How to use
 
-1. Add the TamperMonkey extension to Chrome
+1. Add the [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension to Chrome
 2. Create a new User script and save it
 3. Open the new user script and click the "Settings" tab
 4. Write the following url under the Update section in TamperMonkey
