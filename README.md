@@ -14,10 +14,10 @@ This repo contains a [script](https://github.com/johnedvard/Media-Buttons-LINE-M
 3. Open the new user script and click the "Settings" tab
 4. Write the following url under the Update section in TamperMonkey
 https://raw.githubusercontent.com/johnedvard/Media-Buttons-LINE-Music/master/index.js
-5. Click the extenstion icon in the top bar of the browser, and click "Check for userscript updates" in the extension.
-6. The user script will detect changes and ask you to confirm the update. 
+5. Click the extenstion icon in the top bar of the browser, and click "Check for userscript updates" in the extension
+6. The user script will detect changes and ask you to confirm the update
 7. Click update, and refresh the browser window
-8. Go to music.line.me, login, press the play button, and now the media keys, forward and back work.
+8. Go to music.line.me, login, press the play button, and now the media keys, forward and back work
 
 
 ___Video of step 1-4___
