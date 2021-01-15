@@ -6,10 +6,14 @@ This is a script to manually click the previous track and next track buttons on 
 # How to use
 
 1. Add the TamperMonkey extension to Chrome
-
-2. Write the following url under the Update section in TamperMonkey
+2. Create a new User script and save it
+3. Open the new user script and click the "Settings" tab
+4. Write the following url under the Update section in TamperMonkey
 https://raw.githubusercontent.com/johnedvard/Media-Buttons-LINE-Music/master/index.js
-3. Click the "Check for userscript updates" in the extension
+5. Click the extenstion icon in the top bar of the browser, and click "Check for userscript updates" in the extension.
+6. The user script will detect changes and ask you to confirm the update. 
+7. Click update, and refresh the browser window
+8. Go to music.line.me, login, press the play button, and now the media keys, forward and back work.
 
 ## TODO
 Add images
