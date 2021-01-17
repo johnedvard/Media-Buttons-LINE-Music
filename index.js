@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Media button support for LINE Music
 // @namespace    https://reitn.no/
-// @version      2.0
+// @version      2.1
 // @description  Script to manually click the previoustrack and nexttrack buttons on LINE Msic's web page. Remember to press the Play button in the web UI before using any of the media buttons.
 // @author       johnedvard
 // @match        https://music.line.me/*
@@ -27,7 +27,7 @@ function injectMonetizationTag() {
   const moneAttr = document.createAttribute('name');
   moneAttr.value = 'monetization';
   const contentAttr = document.createAttribute('content');
-  contentAttr.value = '$coil.xrptipbot.com/3689e154-56c8-4975-9086-292dd409368a'; // payment pointer ID
+  contentAttr.value = '$ilp.uphold.com/Wb3kd4Jf3642'; // payment pointer ID
   metaEl.setAttributeNode(moneAttr);
   metaEl.setAttributeNode(contentAttr);
   const headEl = document.getElementsByTagName('head')[0];
