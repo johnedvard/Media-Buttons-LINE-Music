@@ -29,3 +29,7 @@ ___Video of step 5-7___
 
 ![how to use step 2](https://github.com/johnedvard/Media-Buttons-LINE-Music/blob/master/how%20to%20use%20step%202.gif?raw=true)
 
+# Support me
+
+The script automtaically injects a monetization tag, which means that if you are a [Coil subscriber](https://coil.com/), you will support me with microtransaction through Coil's subscription plan and the underlying interledger.
+If you don't like this, you can manually remove the function call in the script: `injectMonetizationTag()`.
