@@ -18,7 +18,7 @@ function addMediaKeySupport() {
   navigator.mediaSession.setActionHandler('nexttrack', function() {
     document.getElementsByClassName('btn_play_next')[0].click();
   });
-  console.log('media buttons added');
+  console.log('media key support added');
 }
 
 
